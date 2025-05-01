@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP\\Lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6290DE83-F049-4D41-93F8-681B6F8A85ED}|Lab9\\Lab9.csproj|D:\\OOP\\Lab9\\lab9\\mydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6290DE83-F049-4D41-93F8-681B6F8A85ED}|Lab9\\Lab9.csproj|solutionrelative:lab9\\mydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6290DE83-F049-4D41-93F8-681B6F8A85ED}|Lab9\\Lab9.csproj|d:\\oop\\lab9\\lab9\\frmdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6290DE83-F049-4D41-93F8-681B6F8A85ED}|Lab9\\Lab9.csproj|solutionrelative:lab9\\frmdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6290DE83-F049-4D41-93F8-681B6F8A85ED}|Lab9\\Lab9.csproj|D:\\OOP\\Lab9\\lab9\\frmdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6290DE83-F049-4D41-93F8-681B6F8A85ED}|Lab9\\Lab9.csproj|solutionrelative:lab9\\frmdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6290DE83-F049-4D41-93F8-681B6F8A85ED}|Lab9\\Lab9.csproj|D:\\OOP\\Lab9\\lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6290DE83-F049-4D41-93F8-681B6F8A85ED}|Lab9\\Lab9.csproj|solutionrelative:lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDate.cs",
+              "DocumentMoniker": "D:\\OOP\\Lab9\\Lab9\\MyDate.cs",
+              "RelativeDocumentMoniker": "Lab9\\MyDate.cs",
+              "ToolTip": "D:\\OOP\\Lab9\\Lab9\\MyDate.cs*",
+              "RelativeToolTip": "Lab9\\MyDate.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:31:24.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDate.cs",
+              "DocumentMoniker": "D:\\OOP\\Lab9\\Lab9\\frmDate.cs",
+              "RelativeDocumentMoniker": "Lab9\\frmDate.cs",
+              "ToolTip": "D:\\OOP\\Lab9\\Lab9\\frmDate.cs",
+              "RelativeToolTip": "Lab9\\frmDate.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:25:23.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDate.cs [Design]",
+              "DocumentMoniker": "D:\\OOP\\Lab9\\Lab9\\frmDate.cs",
+              "RelativeDocumentMoniker": "Lab9\\frmDate.cs",
+              "ToolTip": "D:\\OOP\\Lab9\\Lab9\\frmDate.cs [Design]",
+              "RelativeToolTip": "Lab9\\frmDate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:25:02.545Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOP\\Lab9\\Lab9\\Program.cs",
+              "RelativeDocumentMoniker": "Lab9\\Program.cs",
+              "ToolTip": "D:\\OOP\\Lab9\\Lab9\\Program.cs",
+              "RelativeToolTip": "Lab9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:49:23.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
