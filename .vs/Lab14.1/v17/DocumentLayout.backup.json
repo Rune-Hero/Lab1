@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP\\Lab14.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09AC7FC5-6309-4669-9B59-5B4DCA913B04}|Lab14.1\\Lab14.1.csproj|D:\\OOP\\Lab14.1\\lab14.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AC7FC5-6309-4669-9B59-5B4DCA913B04}|Lab14.1\\Lab14.1.csproj|solutionrelative:lab14.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AC7FC5-6309-4669-9B59-5B4DCA913B04}|Lab14.1\\Lab14.1.csproj|D:\\OOP\\Lab14.1\\lab14.1\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AC7FC5-6309-4669-9B59-5B4DCA913B04}|Lab14.1\\Lab14.1.csproj|solutionrelative:lab14.1\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AC7FC5-6309-4669-9B59-5B4DCA913B04}|Lab14.1\\Lab14.1.csproj|d:\\oop\\lab14.1\\lab14.1\\componentcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AC7FC5-6309-4669-9B59-5B4DCA913B04}|Lab14.1\\Lab14.1.csproj|solutionrelative:lab14.1\\componentcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AC7FC5-6309-4669-9B59-5B4DCA913B04}|Lab14.1\\Lab14.1.csproj|D:\\OOP\\Lab14.1\\lab14.1\\pc_component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AC7FC5-6309-4669-9B59-5B4DCA913B04}|Lab14.1\\Lab14.1.csproj|solutionrelative:lab14.1\\pc_component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AC7FC5-6309-4669-9B59-5B4DCA913B04}|Lab14.1\\Lab14.1.csproj|D:\\OOP\\Lab14.1\\lab14.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09AC7FC5-6309-4669-9B59-5B4DCA913B04}|Lab14.1\\Lab14.1.csproj|solutionrelative:lab14.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\OOP\\Lab14.1\\Lab14.1\\FileHelper.cs",
+              "RelativeDocumentMoniker": "Lab14.1\\FileHelper.cs",
+              "ToolTip": "D:\\OOP\\Lab14.1\\Lab14.1\\FileHelper.cs",
+              "RelativeToolTip": "Lab14.1\\FileHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:46:11.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PC_Component.cs",
+              "DocumentMoniker": "D:\\OOP\\Lab14.1\\Lab14.1\\PC_Component.cs",
+              "RelativeDocumentMoniker": "Lab14.1\\PC_Component.cs",
+              "ToolTip": "D:\\OOP\\Lab14.1\\Lab14.1\\PC_Component.cs",
+              "RelativeToolTip": "Lab14.1\\PC_Component.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:20:52.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComponentCollection.cs",
+              "DocumentMoniker": "D:\\OOP\\Lab14.1\\Lab14.1\\ComponentCollection.cs",
+              "RelativeDocumentMoniker": "Lab14.1\\ComponentCollection.cs",
+              "ToolTip": "D:\\OOP\\Lab14.1\\Lab14.1\\ComponentCollection.cs",
+              "RelativeToolTip": "Lab14.1\\ComponentCollection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:43:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\OOP\\Lab14.1\\Lab14.1\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab14.1\\Form1.cs",
+              "ToolTip": "D:\\OOP\\Lab14.1\\Lab14.1\\Form1.cs",
+              "RelativeToolTip": "Lab14.1\\Form1.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAIwPAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:23:33.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\OOP\\Lab14.1\\Lab14.1\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab14.1\\Form1.cs",
+              "ToolTip": "D:\\OOP\\Lab14.1\\Lab14.1\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab14.1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:39:18.859Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
